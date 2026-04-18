@@ -1,0 +1,58 @@
+[
+  {
+    "industry": "Commercial Construction",
+    "saasTaxTarget": "ServiceNow",
+    "primaryPainPoints": [
+        "SaaS platforms charge abusive 'per active project' fees.",
+        "Zero offline capabilities in remote work sites.",
+        "Subcontractors refuse to learn complex monolithic UIs."
+    ],
+    "zeroDebtSolution": {
+        "architecture": "Offline-first syncing mobile PWAs with SQLite",
+        "dataLayer": "Unlimited free external subcontractor accounts via custom RBAC",
+        "roiDrivers": "Eliminates per-project penalties and per-PM seating limits"
+    }
+  },
+  {
+    "industry": "3PL Logistics & Supply Chain",
+    "saasTaxTarget": "SAP",
+    "primaryPainPoints": [
+        "Legacy EDI integrations cause critical synchronization delays.",
+        "Off-the-shelf dispatch relies on manual routing logic.",
+        "SAP exacts massive licensing fees for warehouse floor workers."
+    ],
+    "zeroDebtSolution": {
+        "architecture": "Event-driven microservices with geospatial indexing",
+        "dataLayer": "Native Motive ELD webhooks processing sub-50ms",
+        "roiDrivers": "Zero marginal cost for scaling warehouse headcount"
+    }
+  },
+  {
+    "industry": "Manufacturing & Production",
+    "saasTaxTarget": "Salesforce",
+    "primaryPainPoints": [
+        "Per-seat licensing penalizes large shop-floor headcount.",
+        "Generic ERPs fail to match physical production routing stages.",
+        "IoT/SCADA data remains strictly siloed from financial reporting."
+    ],
+    "zeroDebtSolution": {
+        "architecture": "Time-series database ingest (InfluxDB) mixed with relational core",
+        "dataLayer": "Real-time inventory consumption tracking without API rate limits",
+        "roiDrivers": "Infinite shop-floor operator accounts without OpEx inflation"
+    }
+  },
+  {
+    "industry": "Healthcare Operations",
+    "saasTaxTarget": "HubSpot",
+    "primaryPainPoints": [
+        "Extreme vendor lock-in with massive EHR providers.",
+        "Custom integrations cost hundreds of thousands.",
+        "No-code builders violate HIPAA compliance standards."
+    ],
+    "zeroDebtSolution": {
+        "architecture": "Single-tenant isolated databases per clinic",
+        "dataLayer": "Custom secure patient intake portals over FHIR API",
+        "roiDrivers": "Eliminates data hostage scenarios and per-provider recurring fees"
+    }
+  }
+]

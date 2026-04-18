@@ -1,0 +1,67 @@
+[
+  {
+    "platform": "Salesforce",
+    "category": "CRM",
+    "typicalSeats": 50,
+    "perSeatMonthRange": [150, 300],
+    "annualCostRange": [90000, 180000],
+    "fiveYearCostRange": [450000, 900000],
+    "customBuildCost": 85000,
+    "customAnnualMaintenance": 5000,
+    "customFiveYearCost": 105000,
+    "fiveYearRoiPercent": [328, 757],
+    "hiddenCosts": ["API Call Limits", "Data Storage Overage", "Mandatory Premier Support"]
+  },
+  {
+    "platform": "ServiceNow",
+    "category": "ITSM",
+    "typicalSeats": 100,
+    "perSeatMonthRange": [100, 200],
+    "annualCostRange": [120000, 240000],
+    "fiveYearCostRange": [600000, 1200000],
+    "customBuildCost": 125000,
+    "customAnnualMaintenance": 10000,
+    "customFiveYearCost": 165000,
+    "fiveYearRoiPercent": [263, 627],
+    "hiddenCosts": ["Per-Transaction ITOM Fees", "Integration Hub Pricing", "Custom App Engine Fees"]
+  },
+  {
+    "platform": "SAP",
+    "category": "ERP",
+    "typicalSeats": 200,
+    "perSeatMonthRange": [200, 400],
+    "annualCostRange": [480000, 960000],
+    "fiveYearCostRange": [2400000, 4800000],
+    "customBuildCost": 250000,
+    "customAnnualMaintenance": 25000,
+    "customFiveYearCost": 350000,
+    "fiveYearRoiPercent": [585, 1271],
+    "hiddenCosts": ["Indirect Access Fees", "Digital Access Documents", "Module Implementation Fees"]
+  },
+  {
+    "platform": "HubSpot",
+    "category": "Marketing/CRM",
+    "typicalSeats": 30,
+    "perSeatMonthRange": [120, 250],
+    "annualCostRange": [43200, 90000],
+    "fiveYearCostRange": [216000, 450000],
+    "customBuildCost": 65000,
+    "customAnnualMaintenance": 3500,
+    "customFiveYearCost": 79000,
+    "fiveYearRoiPercent": [173, 469],
+    "hiddenCosts": ["Marketing Contact Tiers", "Custom Object Limits", "API Integration Limits"]
+  },
+  {
+    "platform": "NetSuite",
+    "category": "ERP",
+    "typicalSeats": 50,
+    "perSeatMonthRange": [150, 250],
+    "annualCostRange": [90000, 150000],
+    "fiveYearCostRange": [450000, 750000],
+    "customBuildCost": 150000,
+    "customAnnualMaintenance": 10000,
+    "customFiveYearCost": 190000,
+    "fiveYearRoiPercent": [136, 294],
+    "hiddenCosts": ["Base License Fee", "SuiteCloud Plus Tiers", "Sandboxes"]
+  }
+]
